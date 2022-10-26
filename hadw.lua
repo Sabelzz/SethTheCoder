@@ -1,4 +1,3 @@
-Section:NewButton("Summon A-60", "Summon the a-60", function()
    local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors%20Entity%20Spawner/Source.lua"))()
 -- Create entity
 local entity = Creator.createEntity({
