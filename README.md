@@ -18,6 +18,6 @@ I'm a creator who loves making things—from music to Roblox games and beyond. L
 ## Connect with me
 - [Twitter](https://x.com/SabelSabiez)
 - [Youtube](https://www.youtube.com/channel/UCqKNB54GjVylC1mcxlRFMMQ)
-- [Discord: sabel_z]
+- ## Discord: sabel_z
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to say hi!
