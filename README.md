@@ -5,8 +5,8 @@ I'm a creator who loves making things—from music to Roblox games and other stu
 ## My Projects
 
 ### Music 🎵
-- [Track 1](https://www.youtube.com/watch?v=-vfDV3XFdRU)
-- [Track 2](https://www.youtube.com/watch?v=uXT1D9T0b-0)
+- [Digital Heartbreak](https://soundcloud.com/soapydx/digital-heartbreak)
+- [Problem](https://soundcloud.com/soapydx/problem)
 
 ### Roblox Games 🎮
 - [Noob Land](https://www.roblox.com/games/4830961292/noob-land-UPDATE)
@@ -16,7 +16,7 @@ I'm a creator who loves making things—from music to Roblox games and other stu
 - i quit this game a while ago
 
 ## Socials
-- [Twitter](https://x.com/SabelSabiez)
+- [Twitter](https://x.com/SoapyDX)
 - [Youtube](https://www.youtube.com/channel/UCqKNB54GjVylC1mcxlRFMMQ)
 - # Discord: soapydx
 
