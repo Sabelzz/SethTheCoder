@@ -10,6 +10,8 @@ I'm a creator who loves making things—from music to Roblox games and other stu
 
 ### Roblox Games 🎮
 - [Noob Land](https://www.roblox.com/games/4830961292/noob-land-UPDATE)
+- [cool game: the game](https://www.roblox.com/games/125458325078084/cool-game-the-game-BETA)
+- [pandemonium test place](https://www.roblox.com/games/18807530115/pandemonium-test-place)
 - [Stealing Luigi432's Pancakes At 3AM](https://www.roblox.com/games/17614288899/Stealing-Luigi432s-Pancakes-At-3AM)
 
 ### Pizza Tower Source Codes 🍕
